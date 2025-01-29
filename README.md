@@ -3,5 +3,3 @@ A collection of CI/CD pipeline templates to streamline the development, testing,
 
 
 
-Link To Trello Dashboard
-https://trello.com/b/UQdeevVq/excalibur-infotech-organization
